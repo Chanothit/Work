@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Api_test",
+    "\\Api_test\\Api_test"
   ],
-  "SelectedNode": "\\D:\\Git\\Ui",
+  "SelectedNode": "\\Api_test\\Api_test\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
